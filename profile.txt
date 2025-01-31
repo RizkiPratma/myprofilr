@@ -1,5 +1,6 @@
 1.Buat folder
 2.Open folder di VsCode
 3.buat file html
-buat file css
-simpan lalu hosting di github
+4.buat file css
+5.simpan lalu hosting di github
+6.cek link di pages pada setting github
