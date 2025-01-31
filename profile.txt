@@ -1,0 +1,5 @@
+1.Buat folder
+2.Open folder di VsCode
+3.buat file html
+buat file css
+simpan lalu hosting di github
